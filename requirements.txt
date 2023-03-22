@@ -207,5 +207,5 @@ whiteboxgui==2.2.0
 widgetsnbextension==3.6.2
 xyzservices==2022.9.0
 yarl==1.8.2
-yfinance==0.2.12
+yfinance==0.2.13
 zipp==3.13.0
